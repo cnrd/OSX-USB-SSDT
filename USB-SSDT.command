@@ -69,7 +69,7 @@ def query_yes_no(question, default="yes"):
 			sys.stdout.write("Please respond with 'yes' or 'no' "
 							 "(or 'y' or 'n').\n")
 
-print "Script written by cnrd and made for GA-Z170X-UD3."
+print "Script written by cnrd and is a generic version of my GA-Z170X-UD3 script."
 print "Thanks to Pike R. Alpha for the idea."
 sleep(0.5)
 print "\n" * 4
